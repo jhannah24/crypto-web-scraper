@@ -4,7 +4,7 @@ This crypto web scraper is a Qt-based desktop application that displays real-tim
 
 ## Features
 
-- **Real-time Updates:** Fetches cryptocurrency data every 5 seconds from [CoinMarketCap](https://coinmarketcap.com/).
+- **Real-time Updates:** Fetches cryptocurrency data continously from [CoinMarketCap](https://coinmarketcap.com/).
 - **Dynamic UI:** Displays top 10 cryptocurrencies with progress bars for market capitalization comparisons.
 - **Error Handling:** Handles network and parsing errors gracefully with user notifications.
 - **Multithreading:** Background data fetching ensures a smooth and responsive UI.
