@@ -21,3 +21,12 @@ This crypto web scraper is a Qt-based desktop application that displays real-tim
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/jhannah24/crypto-web-scraper.git
+   ```
+3. **Compile the file:**
+   ```bash
+   g++ -o main main.cpp
+   ```
+4. **Run the executable:**
+   ```bash
+   ./main
+   ```
