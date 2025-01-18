@@ -16,7 +16,7 @@ This crypto web scraper is a Qt-based desktop application that displays real-tim
 - **libcurl**: For HTTP requests to fetch cryptocurrency data.
 - **Regex**: To parse cryptocurrency names, prices, and market capitalizations from HTML.
 
-## Installation
+## Installation and Setup
 
 1. **Clone the repository:**
    ```bash
