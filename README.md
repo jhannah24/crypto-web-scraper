@@ -21,5 +21,12 @@ This crypto web scraper is a Qt-based desktop application that displays real-tim
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/jhannah24/crypto-web-scraper.git
+    ```
+2. **Install Libcurl if using a Linux distribution (curl is pre-installed with mac OS and Windows):**
+   ```bash
+   sudo apt install libcurl4-openssl-dev
    ```
-2. **Run in Qt or configure CMake build with user-provided Qt installation**
+3. **Install Qt for your specific platform from the official Qt documentation:**
+   [How to Install Qt](https://doc.qt.io/qt-6/get-and-install-qt.html)
+   
+5. **Build**: This project is built using Qt 6.8.1. Make sure you have this version or a compatible one installed.
